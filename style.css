@@ -1,0 +1,20 @@
+body {
+    background: black;
+}
+
+.meme-div {
+    margin: auto;
+    width: 50%;
+    height: 50%;
+}
+
+.meme-title, .meme-footer {
+    padding: 1em;
+    color: white;
+    text-align: center;
+}
+
+.meme-img {
+    max-width: 100%;
+    max-height: 100%;
+}
