@@ -8,7 +8,7 @@ body {
     height: 50%;
 }
 
-.meme-title, .meme-footer {
+.meme-name, .meme-footer {
     padding: 1em;
     color: white;
     text-align: center;
